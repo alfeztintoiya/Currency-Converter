@@ -63,30 +63,18 @@ Enter the amount to be converted.
 The application fetches real-time exchange rates and displays the conversion result.
 
 
-<img src="/Volumes/MY  DISK/Web_Development_Project/Backend_Project/Currency_Converter/Screenshot 2025-02-05 at 8.17.10 PM.png" alt="project screenshot">
+<img src="screenshot.png" alt="project screenshot">
 
 
 🌍 API Integration
 
 This project uses a currency exchange API to fetch real-time exchange rates. Update the API URL or key in the script.js file if needed.
 
-🎯 Improvements
-
-Suggestions for future enhancements:
-
-Add support for more currencies.
-
-Display historical exchange rates.
-
-Implement a dark mode feature.
 
 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License.
 
 📧 Contact
 
